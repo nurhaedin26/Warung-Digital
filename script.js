@@ -4,7 +4,7 @@ const dataBarang = [
         { 
             nama: "majmu'atudawah", 
             harga: "Rp 30.000 " + e,
-            link: "https://vt.tokopedia.com/t/ZS9RTe6meTr1d-mWXDk/", 
+            link: "https://vt.tokopedia.com/t/ZS9RTNDftku51-UO1Ua/", 
             foto: "img/majmu.png" 
         },
        
