@@ -1,0 +1,41 @@
+ :root { --primary: #fe2c55; --dark: #121212; --light: #f8f8f8; }
+        body { font-family: sans-serif; background: var(--light); margin: 0; padding-bottom: 50px; }
+        
+        /* INI BIAR HEADER TETAP DI POSISI (STICKY) */
+        header { 
+            background: var(--dark); 
+            color: white; 
+            text-align: center; 
+            padding: 15px; 
+            border-bottom: 4px solid var(--primary);
+            position: -webkit-sticky; /* Support Safari */
+            position: sticky; 
+            top: 0; 
+            z-index: 999; 
+            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+        }
+        .om{font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        color: aqua;
+        }
+
+
+        .container { max-width: 600px; margin: auto; padding: 15px; }
+        #searchInput { 
+            width: 100%; 
+            padding: 12px; 
+            border-radius: 25px; 
+            border: 1px solid #ddd; 
+            margin-bottom: 20px; 
+            box-sizing: border-box;
+            font-size: 16px;
+        }
+        
+        .product-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+        .card { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: flex; flex-direction: column; }
+        .card img { width: 100%; aspect-ratio: 1/1; object-fit: cover; }
+        .info { padding: 12px; flex-grow: 1; }
+        .title { font-size: 14px; font-weight: bold; height: 35px; overflow: hidden; margin-bottom: 5px; color: #333; }
+        .price { font-size: 16px; color: var(--primary); font-weight: 800; margin-bottom: 12px; }
+        .btn { display: block; background: var(--primary); color: white; text-align: center; padding: 10px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 13px; }
+    
