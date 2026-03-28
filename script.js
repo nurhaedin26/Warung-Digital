@@ -7,6 +7,12 @@ const dataBarang = [
             link: "https://vt.tokopedia.com/t/ZS9RTNDftku51-UO1Ua/", 
             foto: "img/majmu.png" 
         },
+   {
+      nama : " Al Majmu'atul Mubarokah",
+      harga : "Rp. 25.000 " + e,
+      link : "https://vt.tokopedia.com/t/ZS98dVT6wQYnG-fAXQm/",
+      foto : "img/barokah.jpg"
+   },
        
     ];
 
