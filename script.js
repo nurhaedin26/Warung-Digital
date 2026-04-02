@@ -13,6 +13,11 @@ const dataBarang = [
       link : "https://vt.tokopedia.com/t/ZS98dVT6wQYnG-fAXQm/",
       foto : "img/barokah.jpg"
    },
+   { 
+      nama : "Alat kerok & bekam",
+      link : "https://vt.tokopedia.com/t/ZS98ayGsTAunm-IDtiJ/",
+      foto : "img/kerok.jpg",
+   },
        
     ];
 
