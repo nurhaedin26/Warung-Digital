@@ -16,7 +16,7 @@ const dataBarang = [
    { 
       nama : "Alat kerok & bekam",
       link : "https://vt.tokopedia.com/t/ZS98ayGsTAunm-IDtiJ/",
-      harga : "Rp4000 " + e,
+      harga : "Rp4.000 " + e,
       foto : "img/kerok.jpg",
    },
        
