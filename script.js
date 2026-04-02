@@ -3,19 +3,20 @@
 const dataBarang = [
         { 
             nama: "majmu'atudawah", 
-            harga: "Rp 30.000 " + e,
+            harga: "Rp30.000 " + e,
             link: "https://vt.tokopedia.com/t/ZS9RTNDftku51-UO1Ua/", 
             foto: "img/majmu.png" 
         },
    {
       nama : " Al Majmu'atul Mubarokah",
-      harga : "Rp. 25.000 " + e,
+      harga : "Rp25.000 " + e,
       link : "https://vt.tokopedia.com/t/ZS98dVT6wQYnG-fAXQm/",
       foto : "img/barokah.jpg"
    },
    { 
       nama : "Alat kerok & bekam",
       link : "https://vt.tokopedia.com/t/ZS98ayGsTAunm-IDtiJ/",
+      harga : "Rp4000 " + e,
       foto : "img/kerok.jpg",
    },
        
