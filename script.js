@@ -1,4 +1,4 @@
-// DATA BARANG 
+ini// DATA BARANG 
    var e = "(estimasi)" 
 const dataBarang = [
         { 
@@ -24,6 +24,12 @@ const dataBarang = [
       link : "https://vt.tokopedia.com/t/ZS98KU3g724Aa-kvSgI/",
       harga : "Rp20.000 " + e,
       foto : "img/tawasulwali.jpg",
+   },
+   { 
+      nama : "holder hp plus lampu",
+      link : "https://vt.tokopedia.com/t/ZS98EoguL184H-kspji/",
+      harga : "Rp33.000 " + e,
+      foto : "img/holder lampu.jpg",
    },
        
     ];
