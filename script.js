@@ -1,4 +1,4 @@
-ini// DATA BARANG 
+// DATA BARANG 
    var e = "(estimasi)" 
 const dataBarang = [
         { 
