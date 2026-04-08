@@ -19,6 +19,12 @@ const dataBarang = [
       harga : "Rp4.000 " + e,
       foto : "img/kerok.jpg",
    },
+   { 
+      nama : "Buku tawasul waliyullah",
+      link : "https://vt.tokopedia.com/t/ZS98KU3g724Aa-kvSgI/",
+      harga : "Rp20.000 " + e,
+      foto : "img/tawsulwali.jpg",
+   },
        
     ];
 
