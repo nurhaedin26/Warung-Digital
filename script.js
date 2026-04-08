@@ -25,7 +25,12 @@ const dataBarang = [
       harga : "Rp20.000 " + e,
       foto : "img/tawasulwali.jpg",
    },
-   
+   { 
+      nama : "holder hp plus lampu",
+      link : "https://vt.tokopedia.com/t/ZS98EoguL184H-kspji/",
+      harga : "Rp33.000 " + e,
+      foto : "img/holder lampu.jpg",
+   },
        
     ];
 
